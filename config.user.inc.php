@@ -1,0 +1,4 @@
+<?php
+for ($i = 1; isset($hosts[$i - 1]); $i++) {
+    $cfg['Servers'][$i]['hide_db'] = 'information_schema|mysql|performance_schema|sys|phpmyadmin';
+}
