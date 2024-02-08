@@ -1,8 +1,9 @@
 # Docker phpmyadmin
 
 <p float="left">
-  <img src="https://cdn.svgporn.com/logos/docker-icon.svg" height="70" title="php">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/PhpMyAdmin_logo.svg" height="70" title="php">
+  <img src="https://cdn.svgporn.com/logos/docker-icon.svg" height="50" title="php">
+  <img src="https://www.svgrepo.com/show/353085/dot-single.svg" height="30" title="docker">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/PhpMyAdmin_logo.svg" height="50" title="php">
 </p>
 
 
